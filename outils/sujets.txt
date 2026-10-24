@@ -1,0 +1,47 @@
+# Banque de sujets du blog Karaoké 974 (karaoke974.re)
+# Une ligne = un sujet. Quand il est publié, remplacer la ligne par « FAIT le JJ/MM/AAAA : slug ».
+# Priorité 1 = requêtes qui amènent des devis (mot-clé + lieu ou + occasion). Priorité 2 = questions pratiques. Priorité 3 = fond et inspiration.
+# Mots-clés cibles : karaoké La Réunion, karaoké 974, karaoké à domicile, organiser un karaoké, animateur karaoké, location karaoké, soirée karaoké entreprise, karaoké anniversaire, karaoké mariage.
+
+## Priorité 1 : requêtes commerciales
+FAIT le 24/10/2026 : organiser-karaoke-reunion-guide
+FAIT le 24/10/2026 : karaoke-a-domicile-reunion
+FAIT le 24/10/2026 : animateur-karaoke-reunion-role
+Karaoké à Saint-Denis : où et comment organiser sa soirée (bars, entreprises, domicile)
+Karaoké à Saint-Pierre : la soirée chez vous plutôt que dans une box
+Karaoké à Saint-Paul et Saint-Gilles : villas, fêtes de famille, soirées d'entreprise
+Karaoké au Tampon et dans les Hauts : varangue, kiosque, salle communale
+Location karaoké à La Réunion : matériel seul ou formule avec animateur, que choisir
+Soirée karaoké d'entreprise à La Réunion : le déroulé type d'une fête de fin d'année
+Karaoké pour un pot de départ ou un départ en retraite : la chanson surprise
+Karaoké pour un anniversaire de 40 ans ou 50 ans : la playlist des années de jeunesse
+Karaoké de mariage à La Réunion : le soir, le lendemain, en relais du DJ
+Karaoké pour une association ou un comité des fêtes : budget, salle, public mélangé
+Karaoké pour un arbre de Noël d'entreprise : titres pour enfants et classiques de Noël
+Karaoké pour un bar ou un restaurant : la soirée mensuelle qui remplit un jeudi
+Karaoké d'entreprise pour un séminaire : la soirée qui défoule sans discours
+Karaoké pour un team building : la battle des services avec jury
+
+## Priorité 2 : questions pratiques
+Karaoké et voisinage à La Réunion : volume, heure de fin, lotissements
+Karaoké en extérieur à La Réunion : varangue, kiosque, tente, saison des pluies
+Combien de temps dure une soirée karaoké et à quelle heure la commencer
+Karaoké avec des enfants et des adultes : comment faire chanter toute la famille
+Karaoké : comment faire chanter les timides (les techniques de l'animateur)
+Karaoké pour un public de gramounes : repas des aînés, semaine bleue
+Karaoké et SACEM à La Réunion : qui paie quoi pour une soirée privée ou publique
+Karaoké ou blind test : lequel choisir selon votre public
+Karaoké ou soirée dansante : combiner les deux dans la même soirée
+Combien de micros faut-il pour un karaoké réussi
+Karaoké sur écran ou vidéoprojecteur : ce qui change selon la salle
+Les erreurs qui tuent une soirée karaoké (et comment les éviter)
+
+## Priorité 3 : fond et inspiration
+Les 20 ségas que toute la salle reprend en chœur
+Les tubes français des années 80 et 90 incontournables en karaoké
+Les duos qui marchent à tous les coups en karaoké
+Karaoké en créole : chanter péi, du maloya au séga moderne
+Le karaoké, histoire et succès à La Réunion : des bars de Saint-Denis aux varangues
+Karaoké de fin d'année : la soirée de décembre à réserver dès octobre
+Karaoké de Saint-Valentin : la soirée en couple ou entre amis
+Karaoké de fête des mères et fête des pères : l'idée cadeau qui réunit la famille

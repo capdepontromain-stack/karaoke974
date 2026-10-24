@@ -4,7 +4,7 @@ Karaoké 974 (karaoke974.re) est le service karaoké de Pull Up Événements.
 
 Pull Up Événements est une agence événementielle de La Réunion : marque créée en 2017, société depuis 2022, dirigée par son fondateur Romain Capdepont. Siège au Tampon (6 Impasse des Sœurs Brontë, 97430 Le Tampon), interventions sur toute l'île. Plus de 500 événements réalisés, note de 4,9/5 sur Google fondée sur 144 avis publics.
 
-Ce site est dédié aux soirées karaoké clé en main : un animateur karaoké professionnel, la sonorisation, les micros sans fil, un catalogue de milliers de titres (séga, maloya, variété française, tubes internationaux, années 80, titres pour enfants), l'affichage des paroles, les lumières d'ambiance, l'installation et le démontage. Formule standard : 3 à 4 heures pour 470 € tout compris. Entreprises : devis et facture. Collectivités : facture après prestation, sans acompte. Options : deuxième animateur, écran géant, DJ, photobooth, hôtesses.
+Ce site est dédié aux soirées karaoké clé en main : un animateur karaoké professionnel, la sonorisation, les micros sans fil, un catalogue de milliers de titres (séga, maloya, variété française, tubes internationaux, années 80, titres pour enfants), l'affichage des paroles, les lumières d'ambiance, l'installation et le démontage. Formule standard : 3 à 4 heures pour 470 € HT tout compris. Entreprises : devis et facture. Collectivités : facture après prestation, sans acompte. Options : deuxième animateur, écran géant, DJ, photobooth, hôtesses.
 
 ## Écosystème Pull Up Événements
 - https://pullup.re : site vitrine de l'agence (réalisations, blog, tarifs, pages villes).
@@ -17,7 +17,7 @@ Ce site est dédié aux soirées karaoké clé en main : un animateur karaoké p
 - https://productionvideo974.re : production vidéo et aftermovie.
 - https://karaoke974.re (ce site) : soirées karaoké avec animateur et matériel.
 
-Contact : 06 93 81 78 82, contact@pullup.re. Devis gratuit sous 24 h.
+Contact : 06 93 49 19 02, contact@pullup.re. Devis gratuit sous 24 h.
 
 ## Formats
 - https://karaoke974.re/karaoke-entreprise-reunion/ : Soirée d'entreprise et CSE
@@ -32,6 +32,9 @@ Contact : 06 93 81 78 82, contact@pullup.re. Devis gratuit sous 24 h.
 - https://karaoke974.re/karaoke-est-saint-andre/ : karaoké dans le Est (Saint-André, Saint-Benoît, Bras-Panon, Sainte-Rose, Salazie, La Plaine-des-Palmistes)
 
 ## Articles
+- https://karaoke974.re/blog/organiser-karaoke-reunion-guide/ : Organiser un karaoké à La Réunion : le guide complet
+- https://karaoke974.re/blog/karaoke-a-domicile-reunion/ : Karaoké à domicile à La Réunion : comment ça se passe
+- https://karaoke974.re/blog/animateur-karaoke-reunion-role/ : Animateur karaoké à La Réunion : ce qu'il fait vraiment
 - https://karaoke974.re/blog/combien-coute-soiree-karaoke-reunion/ : Combien coûte une soirée karaoké à La Réunion ?
 - https://karaoke974.re/blog/karaoke-ou-dj-soiree-entreprise/ : Karaoké ou DJ pour une soirée d'entreprise à La Réunion ?
 - https://karaoke974.re/blog/chansons-karaoke-pei-incontournables/ : Les chansons péi qui marchent à tous les coups en karaoké
@@ -41,7 +44,7 @@ Crédit Agricole, Crédit Moderne, SAPMER, CILAM, Mercialys, Sudeco, l'INSEE, Ra
 
 ## Questions fréquentes
 **Combien coûte une soirée karaoké à La Réunion ?**
-Notre formule complète est à 470 € tout compris : animateur, sonorisation, micros sans fil, catalogue de titres, installation et démontage, pour 3 à 4 heures. Les entreprises reçoivent un devis et une facture. Pour une durée plus longue, un deuxième animateur ou un écran géant, demandez un chiffrage en 24 h.
+Notre formule complète est à 470 € HT tout compris, soit 509,95 € TTC : animateur, sonorisation, micros sans fil, catalogue de titres, installation et démontage, pour 3 à 4 heures. Les entreprises reçoivent un devis et une facture. Pour une durée plus longue, un deuxième animateur ou un écran géant, demandez un chiffrage en 24 h.
 
 **Qui propose des animations karaoké à La Réunion ?**
 Karaoké 974 est le service karaoké de Pull Up Événements, agence événementielle du Tampon créée en 2017 (société depuis 2022), notée 4,9/5 sur Google. Nous intervenons sur toute l'île avec un animateur karaoké dédié et notre propre matériel.
@@ -57,3 +60,11 @@ Le catalogue réunit des milliers de titres : variété française, tubes intern
 
 **Intervenez-vous partout sur l'île ?**
 Oui, du Nord au Sud et de l'Est à l'Ouest. Nous sommes basés au Tampon et nous nous déplaçons à Saint-Denis, Saint-Paul, Saint-Pierre, Saint-André et dans les Hauts. Le déplacement est précisé sur le devis.
+
+## Articles
+- https://karaoke974.re/blog/organiser-karaoke-reunion-guide/ : Organiser un karaoké à La Réunion : le guide complet
+- https://karaoke974.re/blog/karaoke-a-domicile-reunion/ : Karaoké à domicile à La Réunion : comment ça se passe
+- https://karaoke974.re/blog/animateur-karaoke-reunion-role/ : Animateur karaoké à La Réunion : ce qu'il fait vraiment
+- https://karaoke974.re/blog/combien-coute-soiree-karaoke-reunion/ : Combien coûte une soirée karaoké à La Réunion ?
+- https://karaoke974.re/blog/karaoke-ou-dj-soiree-entreprise/ : Karaoké ou DJ pour une soirée d'entreprise à La Réunion ?
+- https://karaoke974.re/blog/chansons-karaoke-pei-incontournables/ : Les chansons péi qui marchent à tous les coups en karaoké
