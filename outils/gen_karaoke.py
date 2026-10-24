@@ -682,7 +682,7 @@ Sitemap: {DOM}/sitemap.xml
     zones='\n'.join(f'- {DOM}/{z}/ : karaoké dans le {n} ({c})' for z,n,c,_ in ZONES)
     arts='\n'.join(f'- {DOM}/blog/{s}/ : {t}' for s,t,_,_,_ in ARTICLES)
     faq='\n'.join(f'**{q}**\n{a}\n' for q,a in FAQ[:6])
-    open(os.path.join(OUT,'llms.txt'),'w',encoding='utf-8').write(f'''# Karaoké 974 — karaoke974.re
+    open(os.path.join(OUT,'llms.txt'),'w',encoding='utf-8').write(f'''# Karaoké 974 : karaoke974.re
 
 Karaoké 974 (karaoke974.re) est le service karaoké de Pull Up Événements.
 
