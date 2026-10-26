@@ -8,7 +8,7 @@ FAIT le 24/10/2026 : organiser-karaoke-reunion-guide
 FAIT le 24/10/2026 : karaoke-a-domicile-reunion
 FAIT le 24/10/2026 : animateur-karaoke-reunion-role
 FAIT le 25/10/2026 : karaoke-saint-denis-reunion
-Karaoké à Saint-Pierre : la soirée chez vous plutôt que dans une box
+FAIT le 26/10/2026 : karaoke-saint-pierre-reunion
 Karaoké à Saint-Paul et Saint-Gilles : villas, fêtes de famille, soirées d'entreprise
 Karaoké au Tampon et dans les Hauts : varangue, kiosque, salle communale
 Location karaoké à La Réunion : matériel seul ou formule avec animateur, que choisir
