@@ -35,5 +35,9 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
+# Assistants IA ajoutes le 26/10/2026 (vague 6), tous autorises
+User-agent: Amazonbot
+Allow: /
+
 Sitemap: https://karaoke974.re/sitemap.xml
 # Presentation pour les IA : https://karaoke974.re/llms.txt
