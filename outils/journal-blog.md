@@ -7,3 +7,4 @@
 - 2026-10-30 : soiree-karaoke-entreprise-fin-annee-reunion : Soirée karaoké entreprise à La Réunion : le déroulé de fin d'année : 200 (article + blog, article en 200 après ~2 min de délai GitHub Pages), IndexNow 200
 - 2026-11-02 : karaoke-pot-de-depart-retraite-reunion : Karaoké pot de départ ou retraite à La Réunion : la chanson surprise : 200 (article + blog + sitemap ; push bloqué au premier essai, relancé à la main), IndexNow 200
 - 2026-11-03 : karaoke-arbre-de-noel-entreprise-reunion : Karaoké arbre de Noël d'entreprise à La Réunion : enfants et parents : 200 (article + blog), IndexNow 200 (sujet pris avant « anniversaire 40/50 ans » pour la saison des arbres de Noël)
+- 2026-11-04 : karaoke-anniversaire-40-50-ans-reunion : Karaoké anniversaire 40 ou 50 ans à La Réunion : la playlist jeunesse : 200 (article + blog), IndexNow 200
