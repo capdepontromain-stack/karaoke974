@@ -13,6 +13,42 @@ var ID_GA4 = "G-ZSKGKZVN57";
 
 var SITE_PULLUP = "karaoke974";
 
+/* ── Google Ads : mesure des conversions (demande de devis, clic téléphone) ──
+   Chargé sur toutes les pages, en mode consentement « refusé » par défaut :
+   aucun cookie publicitaire tant que le visiteur n'a pas cliqué « Accepter ».
+   Google compte alors les conversions sans cookie, sur la page d'arrivée. ── */
+var ID_ADS    = "AW-16625100387";
+var ADS_DEVIS = "AW-16625100387/aI1zCIGHr7IdEOPMu_c9";
+var ADS_TEL   = "AW-16625100387/5LD1CISHr7IdEOPMu_c9";
+(function () {
+  if (!ID_ADS) return;
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () { dataLayer.push(arguments); };
+  var ok = false;
+  try { var d = JSON.parse(localStorage.getItem('pu_consent') || 'null'); ok = !!(d && d.choix === 'oui'); } catch (e) {}
+  gtag('consent', 'default', {
+    ad_storage: ok ? 'granted' : 'denied',
+    ad_user_data: ok ? 'granted' : 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: ok ? 'granted' : 'denied',
+    wait_for_update: 500
+  });
+  gtag('js', new Date());
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID_ADS;
+  document.head.appendChild(s);
+  gtag('config', ID_ADS);
+  window.puConversionAds = function (etiquette) {
+    if (etiquette && typeof gtag === 'function') gtag('event', 'conversion', { send_to: etiquette });
+  };
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a') : null;
+    if (a && (a.getAttribute('href') || '').toLowerCase().indexOf('tel:') === 0) window.puConversionAds(ADS_TEL);
+  });
+  document.addEventListener('submit', function () { window.puConversionAds(ADS_DEVIS); });
+})();
+
 (function () {
   if (!ID_GA4) return;                    /* pas configuré : on ne charge rien */
 
@@ -33,6 +69,7 @@ var SITE_PULLUP = "karaoke974";
 
   /* Charge Google Analytics — appelé UNIQUEMENT après consentement */
   function charger() {
+    try { if (typeof gtag === 'function') gtag('consent', 'update', { ad_storage: 'granted', ad_user_data: 'granted', analytics_storage: 'granted' }); } catch (e) {}
     window.dataLayer = window.dataLayer || [];
     window.gtag = function () { dataLayer.push(arguments); };
     gtag('js', new Date());
