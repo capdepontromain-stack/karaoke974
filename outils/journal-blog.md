@@ -9,3 +9,4 @@
 - 2026-11-03 : karaoke-arbre-de-noel-entreprise-reunion : Karaoké arbre de Noël d'entreprise à La Réunion : enfants et parents : 200 (article + blog), IndexNow 200 (sujet pris avant « anniversaire 40/50 ans » pour la saison des arbres de Noël)
 - 2026-11-04 : karaoke-anniversaire-40-50-ans-reunion : Karaoké anniversaire 40 ou 50 ans à La Réunion : la playlist jeunesse : 200 (article + blog), IndexNow 200
 - 2026-11-05 : karaoke-mariage-reunion-soir-lendemain-dj : Karaoké de mariage à La Réunion : le soir, le lendemain ou avec le DJ : 200 (article + blog), IndexNow 200
+- 2026-11-06 : karaoke-association-comite-des-fetes-reunion : Karaoké pour association ou comité des fêtes à La Réunion : 200 (article + blog), IndexNow 200
