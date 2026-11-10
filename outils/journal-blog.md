@@ -13,3 +13,4 @@
 - 2026-11-07 : karaoke-bar-restaurant-reunion : Karaoké dans un bar ou un restaurant à La Réunion : la soirée du jeudi : 200 (article + blog), IndexNow 200
 - 2026-11-08 : karaoke-seminaire-entreprise-reunion : Karaoké pour un séminaire d'entreprise à La Réunion : la soirée : 200 (article + blog), IndexNow 200
 - 2026-11-09 : karaoke-team-building-battle-reunion : Karaoké team building à La Réunion : la battle des services avec jury : 200 (article + blog), IndexNow 200
+- 2026-11-10 : karaoke-voisinage-volume-heure-fin-reunion : Karaoké et voisinage à La Réunion : volume, heure de fin, lotissement : 200 (article + blog), IndexNow 200 (priorité 1 épuisée, premier sujet de priorité 2)
