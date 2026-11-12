@@ -25,7 +25,7 @@ FAIT le 09/11/2026 : karaoke-team-building-battle-reunion
 ## Priorité 2 : questions pratiques
 FAIT le 10/11/2026 : karaoke-voisinage-volume-heure-fin-reunion
 FAIT le 11/11/2026 : karaoke-exterieur-varangue-kiosque-pluie-reunion
-Combien de temps dure une soirée karaoké et à quelle heure la commencer
+FAIT le 12/11/2026 : duree-soiree-karaoke-reunion-horaire
 Karaoké avec des enfants et des adultes : comment faire chanter toute la famille
 Karaoké : comment faire chanter les timides (les techniques de l'animateur)
 Karaoké pour un public de gramounes : repas des aînés, semaine bleue
