@@ -6,7 +6,7 @@ from html import escape
 OUT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # racine du dépôt
 DOM = 'https://karaoke974.re'
 TEL = '06 93 49 19 02'; TELH = '+262693491902'; MAIL = 'contact@pullup.re'  # Ketsia gère le karaoké
-NOTE = '4,9'; NB = '144'
+NOTE = '4,9'; NB = '150'
 TODAY = datetime.date.today()
 TODAY_FR = TODAY.strftime('%-d ') + ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'][TODAY.month-1] + TODAY.strftime(' %Y')
 
