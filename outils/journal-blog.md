@@ -16,3 +16,4 @@
 - 2026-11-10 : karaoke-voisinage-volume-heure-fin-reunion : Karaoké et voisinage à La Réunion : volume, heure de fin, lotissement : 200 (article + blog), IndexNow 200 (priorité 1 épuisée, premier sujet de priorité 2)
 - 2026-11-11 : karaoke-exterieur-varangue-kiosque-pluie-reunion : Karaoké en extérieur à La Réunion : varangue, kiosque, tente et pluie : 200 (article + blog), IndexNow 200
 - 2026-11-12 : duree-soiree-karaoke-reunion-horaire : Durée d'une soirée karaoké à La Réunion : horaires conseillés : 200 (article + blog), IndexNow à vérifier
+- 2026-11-13 : karaoke-enfants-adultes-famille-reunion : Karaoké en famille à La Réunion : enfants et adultes ensemble : 200 (article + blog), IndexNow envoyé
