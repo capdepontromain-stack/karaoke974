@@ -6,7 +6,7 @@ from html import escape
 OUT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # racine du dépôt
 DOM = 'https://karaoke974.re'
 TEL = '06 93 49 19 02'; TELH = '+262693491902'; MAIL = 'contact@pullup.re'  # Ketsia gère le karaoké
-NOTE = '4,9'; NB = '150'
+import json as _j; _B=_j.load(open('/Users/macbookpullup/pullup-brand/brand.json')); NOTE = str(_B['googleRating']).replace('.', ','); NB = str(_B['googleReviewCount'])  # lu dans brand.json (routine GEO 19/11/2026)
 TODAY = datetime.date.today()
 TODAY_FR = TODAY.strftime('%-d ') + ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'][TODAY.month-1] + TODAY.strftime(' %Y')
 
