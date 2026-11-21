@@ -2,7 +2,7 @@
 titre: Faire chanter les timides au karaoké à La Réunion : nos astuces
 description: Comment faire chanter les timides au karaoké à La Réunion : chansons en groupe, duos, ordre de passage. Les techniques de l'animateur Karaoké 974.
 slug: karaoke-faire-chanter-les-timides-reunion
-date: 2026-11-14
+date: 2026-11-21
 image: micro-sans-fil-soiree-entreprise-karaoke-974.jpg
 alt: Micro sans fil tendu pendant une soirée karaoké en entreprise à La Réunion
 ---

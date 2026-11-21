@@ -165,7 +165,14 @@ def publier(urls_a_verifier, message):
     r = subprocess.run(['git', '-C', RACINE, 'status', '--porcelain'], capture_output=True, text=True).stdout.strip()
     if r:
         subprocess.run(['git', '-C', RACINE, 'add', '-A'], check=True)
-        subprocess.run(['git', '-C', RACINE, '-c', 'user.name=Romain Capdepont', '-c', 'user.email=capdepontromain@gmail.com', 'commit', '-q', '-m', message + '\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>'], check=True)
+        # Identité du commit : lue dans les variables PULLUP_GIT_NOM / PULLUP_GIT_EMAIL si Romain les définit,
+        # sinon identité git par défaut du Mac (comme les autres tâches automatiques).
+        ident = []
+        if os.environ.get('PULLUP_GIT_NOM'):
+            ident += ['-c', 'user.name=' + os.environ['PULLUP_GIT_NOM']]
+        if os.environ.get('PULLUP_GIT_EMAIL'):
+            ident += ['-c', 'user.email=' + os.environ['PULLUP_GIT_EMAIL']]
+        subprocess.run(['git', '-C', RACINE] + ident + ['commit', '-q', '-m', message + '\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>'], check=True)
         subprocess.run(['git', '-C', RACINE, 'pull', '-q', '--rebase', 'origin', 'main'])
         p = subprocess.run(['git', '-C', RACINE, 'push', '-q', 'origin', 'main'], capture_output=True, text=True)
         print('push :', 'ok' if p.returncode == 0 else 'ÉCHEC ' + p.stderr[-300:])
