@@ -50,7 +50,7 @@ Côté saison, octobre à décembre est la période des fêtes de fin d'année e
 
 Sur le papier, louer le matériel seul paraît toujours moins cher. Mais il faut ajouter le temps passé à aller le chercher et le rapporter, l'installation, la caution éventuelle, et le risque d'une soirée qui ne décolle pas. Notre formule est à 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures : animateur, sonorisation, micros sans fil, catalogue de milliers de titres, affichage des paroles, lumières, installation et démontage. Pas de mauvaise surprise le jour J. Pour le détail des prix du marché, lisez [combien coûte une soirée karaoké à La Réunion](https://karaoke974.re/blog/combien-coute-soiree-karaoke-reunion/).
 
-Pour une date ou une question, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Pull Up Événements, c'est une marque créée en 2017, une société depuis 2022, plus de 500 événements et une note de 4,9/5 sur Google.
+Pour une date ou une question, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Pull Up Événements, c'est une marque créée en 2017, une société depuis 2022, plus de 1 000 événements et une note de 4,9/5 sur Google.
 
 ## Questions fréquentes
 

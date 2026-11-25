@@ -46,7 +46,7 @@ Nous arrivons avant le dîner pour installer et nous démontons en fin de soiré
 
 La formule Karaoké 974 est simple : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures avec l'animateur, la sono, les micros sans fil, le catalogue de milliers de titres (séga, maloya, variété française, tubes internationaux, années 80), l'affichage des paroles, les lumières, l'installation et le démontage. Nous établissons un devis puis une facture au nom de votre entreprise, ce qui facilite l'intégration au budget global du séminaire.
 
-Pour réserver, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Toutes les informations pour les entreprises sont sur notre page [karaoké entreprise](https://karaoke974.re/karaoke-entreprise-reunion/). Pull Up Événements, marque créée en 2017 et société depuis 2022, a déjà réalisé plus de 500 événements sur l'île.
+Pour réserver, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Toutes les informations pour les entreprises sont sur notre page [karaoké entreprise](https://karaoke974.re/karaoke-entreprise-reunion/). Pull Up Événements, marque créée en 2017 et société depuis 2022, a déjà réalisé plus de 1 000 événements sur l'île.
 
 ## Questions fréquentes
 

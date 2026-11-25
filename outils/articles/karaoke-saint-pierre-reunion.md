@@ -48,7 +48,7 @@ De novembre à avril, les averses de fin de journée peuvent être brutales, mê
 
 Pour 470 € HT tout compris, soit 509,95 € TTC, vous avez un animateur karaoké professionnel, la sonorisation, les micros sans fil, des milliers de titres, l'affichage des paroles, les lumières d'ambiance, l'installation et le démontage, pour 3 à 4 heures d'animation.
 
-Karaoké 974 est porté par Pull Up Événements, agence basée au Tampon, à quelques minutes de Saint-Pierre : marque créée en 2017, société depuis 2022, plus de 500 événements organisés à La Réunion et une note de 4,9/5 sur Google. Pour réserver, appelez Ketsia au 06 93 49 19 02 : vous recevez votre devis sous 24 h.
+Karaoké 974 est porté par Pull Up Événements, agence basée au Tampon, à quelques minutes de Saint-Pierre : marque créée en 2017, société depuis 2022, plus de 1 000 événements organisés à La Réunion et une note de 4,9/5 sur Google. Pour réserver, appelez Ketsia au 06 93 49 19 02 : vous recevez votre devis sous 24 h.
 
 ## Questions fréquentes
 

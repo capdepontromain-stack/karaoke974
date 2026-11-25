@@ -54,7 +54,7 @@ En saison des pluies, prévoyez un lieu couvert et un accès facile depuis le pa
 
 ## Notre formule et comment réserver
 
-La formule comprend l'animateur, la sonorisation, les micros sans fil, les paroles à l'écran, les lumières, l'installation et le démontage : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures, partout sur l'île. Pour réserver une date, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Pull Up Événements est une marque créée en 2017, société depuis 2022, avec plus de 500 événements réalisés et une note de 4,9/5 sur Google.
+La formule comprend l'animateur, la sonorisation, les micros sans fil, les paroles à l'écran, les lumières, l'installation et le démontage : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures, partout sur l'île. Pour réserver une date, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Pull Up Événements est une marque créée en 2017, société depuis 2022, avec plus de 1 000 événements réalisés et une note de 4,9/5 sur Google.
 
 ## Questions fréquentes
 

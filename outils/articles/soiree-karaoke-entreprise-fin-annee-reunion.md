@@ -44,7 +44,7 @@ Une bonne playlist de fin d'année mélange les générations. Côté péi, les 
 
 ## Le budget et la réservation
 
-Notre formule est simple : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures, avec l'animateur, la sonorisation, les micros sans fil, l'affichage des paroles, les lumières, l'installation et le démontage, partout sur l'île, de Saint-Denis à Saint-Pierre en passant par l'Est et l'Ouest. Pull Up Événements, c'est une marque créée en 2017, une société depuis 2022 et plus de 500 événements organisés.
+Notre formule est simple : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures, avec l'animateur, la sonorisation, les micros sans fil, l'affichage des paroles, les lumières, l'installation et le démontage, partout sur l'île, de Saint-Denis à Saint-Pierre en passant par l'Est et l'Ouest. Pull Up Événements, c'est une marque créée en 2017, une société depuis 2022 et plus de 1 000 événements organisés.
 
 Les vendredis et samedis de novembre et décembre partent en premier. Pour bloquer votre date, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h.
 

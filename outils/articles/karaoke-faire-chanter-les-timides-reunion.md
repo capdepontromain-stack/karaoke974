@@ -44,7 +44,7 @@ Pour les soirées en équipe, notre page [karaoké pour une entreprise à La Ré
 
 ## Notre formule, le prix et comment réserver
 
-La formule comprend l'animateur, la sonorisation, les micros sans fil, les paroles à l'écran, les lumières, l'installation et le démontage : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures, partout sur l'île. Pour réserver ou poser une question, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Nous sommes une marque créée en 2017, société depuis 2022, avec plus de 500 événements réalisés et une note de 4,9/5 sur Google.
+La formule comprend l'animateur, la sonorisation, les micros sans fil, les paroles à l'écran, les lumières, l'installation et le démontage : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures, partout sur l'île. Pour réserver ou poser une question, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Nous sommes une marque créée en 2017, société depuis 2022, avec plus de 1 000 événements réalisés et une note de 4,9/5 sur Google.
 
 ## Questions fréquentes
 

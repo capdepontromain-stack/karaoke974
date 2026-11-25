@@ -42,7 +42,7 @@ En cette fin d'année, la battle s'intègre très bien à une soirée de décemb
 
 La formule Karaoké 974 est la même pour une battle que pour une soirée classique : 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures avec l'animateur, la sono, les micros sans fil, le catalogue de milliers de titres (séga, maloya, variété française, tubes internationaux, années 80), l'affichage des paroles, les lumières, l'installation et le démontage. Prévoyez seulement un espace visible depuis toutes les tables et une prise électrique en bon état. Les petits lots pour l'équipe gagnante sont à votre charge : un trophée fait maison ou une tournée de gâteaux péi font très bien l'affaire.
 
-Pour réserver, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Toutes les informations pour les entreprises sont sur notre page [karaoké entreprise](https://karaoke974.re/karaoke-entreprise-reunion/). Pull Up Événements, marque créée en 2017 et société depuis 2022, a réalisé plus de 500 événements sur l'île. Si vous cherchez une journée complète d'épreuves en extérieur, notre site dédié au [team building à La Réunion](https://teambuilding974.re/) présente nos autres formats.
+Pour réserver, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : devis sous 24 h. Toutes les informations pour les entreprises sont sur notre page [karaoké entreprise](https://karaoke974.re/karaoke-entreprise-reunion/). Pull Up Événements, marque créée en 2017 et société depuis 2022, a réalisé plus de 1 000 événements sur l'île. Si vous cherchez une journée complète d'épreuves en extérieur, notre site dédié au [team building à La Réunion](https://teambuilding974.re/) présente nos autres formats.
 
 ## Questions fréquentes
 

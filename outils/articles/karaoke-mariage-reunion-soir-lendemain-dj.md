@@ -47,7 +47,7 @@ L'animateur a des milliers de titres, mais envoyez-lui vos envies quelques jours
 
 La formule Karaoké 974 coûte 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures d'animation : animateur, sonorisation, micros sans fil, paroles à l'écran, lumières, installation et démontage. Nous intervenons partout sur l'île, de Saint-Denis à Saint-Pierre en passant par l'Ouest et l'Est. Les samedis de mariage partent vite, surtout entre mai et décembre : réservez dès que la date et le lieu sont fixés. Appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re, vous recevez votre devis sous 24 h.
 
-Pull Up Événements, marque créée en 2017, société depuis 2022, a réalisé plus de 500 événements et affiche 4,9/5 sur Google.
+Pull Up Événements, marque créée en 2017, société depuis 2022, a réalisé plus de 1 000 événements et affiche 4,9/5 sur Google.
 
 ## Questions fréquentes
 

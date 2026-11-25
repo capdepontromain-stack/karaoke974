@@ -50,7 +50,7 @@ Début décembre, la saison des pluies commence à La Réunion. Si votre arbre d
 
 La formule Karaoké 974 est à 470 € HT tout compris, soit 509,95 € TTC, pour 3 à 4 heures : animateur, sonorisation, micros sans fil, affichage des paroles, lumières, installation et démontage, partout sur l'île, de Saint-Denis à Saint-Pierre, de Saint-Paul à Saint-André.
 
-Pour réserver, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : nous répondons avec un devis sous 24 h. Pull Up Événements, marque créée en 2017 et société depuis 2022, a réalisé plus de 500 événements à La Réunion et affiche une note de 4,9/5 sur Google.
+Pour réserver, appelez Ketsia au 06 93 49 19 02 ou écrivez à contact@pullup.re : nous répondons avec un devis sous 24 h. Pull Up Événements, marque créée en 2017 et société depuis 2022, a réalisé plus de 1 000 événements à La Réunion et affiche une note de 4,9/5 sur Google.
 
 ## Questions fréquentes
 
