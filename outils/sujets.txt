@@ -31,8 +31,8 @@ FAIT le 21/11/2026 : karaoke-faire-chanter-les-timides-reunion
 FAIT le 23/11/2026 : karaoke-gramounes-repas-des-aines-reunion
 FAIT le 24/11/2026 : karaoke-sacem-reunion-soiree-privee-publique
 FAIT le 25/11/2026 : karaoke-ou-blind-test-reunion-choisir
-Karaoké ou soirée dansante : combiner les deux dans la même soirée
-Combien de micros faut-il pour un karaoké réussi
+Karaoké ou soirée dansante : combiner les deux dans la même soirée (ÉCARTÉ le 26/11/2026 : déjà traité par l'article fixe karaoke-ou-dj-soiree-entreprise et l'article mariage)
+FAIT le 26/11/2026 : combien-de-micros-karaoke-reunion
 Karaoké sur écran ou vidéoprojecteur : ce qui change selon la salle
 Les erreurs qui tuent une soirée karaoké (et comment les éviter)
 
